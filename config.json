@@ -1,0 +1,9 @@
+{
+    "camera_index": 0,
+    "grid_size": 3,
+    "rotation_mode": true,
+    "hand_tracking": false,
+    "filter_mode": "Black & White",
+    "sound_enabled": true,
+    "theme_name": "Dark Mode"
+}
